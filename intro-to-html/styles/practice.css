@@ -1,0 +1,18 @@
+.title1{
+    font-family: bold;
+    font-size: 20px;
+    text-decoration: underline;
+    margin-bottom: 100px;
+}
+
+.statement{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;  
+    padding-left: 200px;
+}
+
+.course-video:hover{
+    font-style: italic;
+    cursor: pointer;
+}
